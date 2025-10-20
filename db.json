@@ -1,0 +1,240 @@
+{
+  "applications": [
+    {
+      "personalInfo": {
+        "name": "test",
+        "nationalId": "784-4448-7877878-8",
+        "dob": "2025-10-21",
+        "gender": "female",
+        "address": "test"
+      },
+      "familyFinancialInfo": {
+        "maritalStatus": "married",
+        "dependents": "0",
+        "employmentStatus": "test",
+        "monthlyIncome": 0,
+        "housingStatus": "test"
+      },
+      "situationDescriptions": {
+        "financialSituation": "test",
+        "employmentCircumstances": "testt",
+        "reasonForApplying": "test"
+      },
+      "status": "approved",
+      "id": 15
+    },
+    {
+      "personalInfo": {
+        "name": "test",
+        "nationalId": "784-8888-8888888-8",
+        "dob": "2025-10-08",
+        "gender": "female",
+        "address": "test"
+      },
+      "familyFinancialInfo": {
+        "maritalStatus": "single",
+        "dependents": 0,
+        "employmentStatus": "test",
+        "monthlyIncome": 0,
+        "housingStatus": "test"
+      },
+      "situationDescriptions": {
+        "financialSituation": "test",
+        "employmentCircumstances": "testte",
+        "reasonForApplying": "test"
+      },
+      "status": "submitted",
+      "id": 16
+    },
+    {
+      "personalInfo": {
+        "name": "test",
+        "nationalId": "784-8887-7744444-4",
+        "dob": "2025-10-22",
+        "gender": "female",
+        "address": "test"
+      },
+      "familyFinancialInfo": {
+        "maritalStatus": "divorced",
+        "dependents": 0,
+        "employmentStatus": "test",
+        "monthlyIncome": "0",
+        "housingStatus": "test"
+      },
+      "situationDescriptions": {
+        "financialSituation": "test",
+        "employmentCircumstances": "test",
+        "reasonForApplying": "test"
+      },
+      "status": "approved",
+      "id": 17
+    },
+    {
+      "personalInfo": {
+        "name": "test",
+        "nationalId": "784-8788-7777748-7",
+        "dob": "2025-10-22",
+        "gender": "female",
+        "address": "test"
+      },
+      "familyFinancialInfo": {
+        "maritalStatus": "married",
+        "dependents": "0",
+        "employmentStatus": "test",
+        "monthlyIncome": "0",
+        "housingStatus": "test"
+      },
+      "situationDescriptions": {
+        "financialSituation": "test",
+        "employmentCircumstances": "test",
+        "reasonForApplying": "test"
+      },
+      "status": "submitted",
+      "id": 18
+    },
+    {
+      "personalInfo": {
+        "name": "test",
+        "nationalId": "784-4848-4888484-8",
+        "dob": "2025-10-24",
+        "gender": "female",
+        "address": "test"
+      },
+      "familyFinancialInfo": {
+        "maritalStatus": "single",
+        "dependents": 0,
+        "employmentStatus": "testte",
+        "monthlyIncome": 0,
+        "housingStatus": "test"
+      },
+      "situationDescriptions": {
+        "financialSituation": "I am experiencing financial hardship due to unexpected medical bills and a recent job loss.",
+        "employmentCircumstances": "I have a diverse work history with experience in customer service, sales, and administrative roles. I am currently seeking new employment opportunities where I can apply my skills and grow professionally.",
+        "reasonForApplying": "I am applying for these funds to support [briefly explain reason]. The funds will be used for [briefly describe how the funds will be utilized to achieve the intended purpose]. This financial assistance will greatly impact [explain how it will positively affect the situation]."
+      },
+      "status": "submitted",
+      "id": 19,
+      "submittedOn": "2025-10-19T21:15:03.191Z"
+    },
+    {
+      "personalInfo": {
+        "name": "test",
+        "nationalId": "784-4877-8777777-7",
+        "dob": "2025-10-09",
+        "gender": "female",
+        "address": "test"
+      },
+      "familyFinancialInfo": {
+        "maritalStatus": "married",
+        "dependents": 0,
+        "employmentStatus": "test",
+        "monthlyIncome": 0,
+        "housingStatus": "test"
+      },
+      "situationDescriptions": {
+        "financialSituation": "Experiencing financial hardship due to unexpected expenses and reduced income.",
+        "employmentCircumstances": "I have a diverse work history that includes roles in customer service, administrative support, and sales. I am currently seeking new opportunities to further develop my skills and contribute to a dynamic team. I am eager to bring my experience and strong work ethic to a new position where I can continue to grow and make a positive impact.",
+        "reasonForApplying": "I am applying for these funds to support my education. The funds will be used for tuition fees, books, and supplies needed for my studies. This financial assistance will greatly help me achieve my academic goals and secure a better future for myself."
+      },
+      "status": "submitted",
+      "id": 20
+    },
+    {
+      "personalInfo": {
+        "name": "test",
+        "nationalId": "784-8778-7878787-8",
+        "dob": "2025-10-22",
+        "gender": "female",
+        "address": "test"
+      },
+      "familyFinancialInfo": {
+        "maritalStatus": "married",
+        "dependents": 0,
+        "employmentStatus": "test",
+        "monthlyIncome": 0,
+        "housingStatus": "test"
+      },
+      "situationDescriptions": {
+        "financialSituation": "Experiencing financial hardship due to unexpected medical expenses and a reduction in work hours. Struggling to cover basic living costs and bills. Seeking assistance to help stabilize my financial situation.",
+        "employmentCircumstances": "I have a strong work history with experience in various industries, including customer service, retail, and administration. I am currently seeking new job opportunities to further develop my skills and contribute to a dynamic work environment. I am dedicated, reliable, and eager to take on new challenges in my career.",
+        "reasonForApplying": "I am applying for these funds to support my education. The funds will be used to cover tuition fees, purchase necessary textbooks, and provide financial assistance for living expenses while I focus on my studies. Thank you for considering my application."
+      },
+      "status": "submitted",
+      "id": 21
+    },
+    {
+      "personalInfo": {
+        "name": "test",
+        "nationalId": "784-8888-8888888-8",
+        "dob": "2025-10-22",
+        "gender": "female",
+        "address": "test"
+      },
+      "familyFinancialInfo": {
+        "maritalStatus": "divorced",
+        "dependents": 0,
+        "employmentStatus": "test",
+        "monthlyIncome": "0",
+        "housingStatus": "test"
+      },
+      "situationDescriptions": {
+        "financialSituation": "Experiencing financial hardship due to unexpected medical expenses and job loss. Struggling to cover basic living costs and bills. Seeking assistance to help stabilize my financial situation.",
+        "employmentCircumstances": "I have a solid work history with experience in various industries. I am currently seeking new employment opportunities to further develop my skills and contribute positively to a new team.",
+        "reasonForApplying": "I am applying for this funding to support my education. The funds will be used to cover tuition fees, course materials, and other educational expenses. This financial assistance will help me pursue my academic goals and invest in my future career success."
+      },
+      "status": "submitted",
+      "id": 22
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Anitha Shekar",
+      "email": "anitha.shekar2823@gmail.com",
+      "password": "anitha@123",
+      "role": "admin"
+    },
+    {
+      "name": "test123",
+      "email": "test123@gmail.com",
+      "password": "test@123",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test11@gmail.com",
+      "password": "test@11",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "test12@gmail.com",
+      "password": "test@12",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "name": "test13",
+      "email": "test13@gmail.com",
+      "password": "test@13",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "email": "test14@gmail.com",
+      "password": "test@14",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "name": "test15",
+      "email": "test15@gmail.com",
+      "password": "test@15",
+      "role": "user",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rtl { direction: rtl; }
+
+.rdp-wrapper {
+  position: relative !important;
+  z-index: 9999 !important;
+}
+
+.rdp {
+  position: absolute !important;
+  top: 100% !important;
+  left: 0 !important;
+  z-index: 9999 !important;
+}
+
+section, main, div {
+  overflow: visible !important;
+}
+
+.datepicker .grid button:hover{
+    background: radial-gradient(circle at center, rgba(139, 92, 246, 0.4), transparent 70%) !important;
+    transition: background 0.3s ease-in-out;
+}
